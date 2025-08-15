@@ -2,13 +2,10 @@
 
 ###
 
-<p align="left">Meu nome é Murilo, Tenho 19 anos, Sou de São Paulo SP</p>
+<p align="left">Meu nome é Murilo, tenho 19 anos, sou de São Paulo SP</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
 
 <p align="left">✨ Trabalho atualmente com vendas de automovéis<br>📚 Estudante de Analise e Desenvolvimento de Sistema</p>
 
